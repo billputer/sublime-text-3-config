@@ -1,6 +1,17 @@
 {
 	"installed_packages":
 	[
+		"Alignment",
+		"ApacheConf.tmLanguage",
+		"DashDoc",
+		"FileDiffs",
+		"INI",
+		"LineEndings",
+		"nginx",
+		"Pretty JSON",
+		"Puppet",
+		"Sass",
+		"Slate",
 		"Solarized Color Scheme"
 	]
 }
