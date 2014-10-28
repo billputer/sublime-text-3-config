@@ -57,6 +57,7 @@
 		<string>irbrc</string>
 		<string>capfile</string>
 		<string>Gemfile</string>
+		<string>Vagrantfile</string>
 	</array>
 	<key>firstLineMatch</key>
 	<string>^#!/.*\bruby</string>
