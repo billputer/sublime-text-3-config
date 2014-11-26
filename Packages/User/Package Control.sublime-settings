@@ -2,6 +2,7 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"Ansible",
 		"ApacheConf.tmLanguage",
 		"Better CoffeeScript",
 		"DashDoc",
