@@ -104,25 +104,26 @@
 	"hot_exit": true,
 	"ignored_packages":
 	[
-		"D",
-		"Objective-C",
-		"Vintage",
-		"Matlab",
-		"Lua",
 		"Clojure",
 		"Pascal",
-		"R",
+		"Haskell",
 		"TCL",
+		"Vintage",
+		"Erlang",
+		"Lua",
+		"ASP",
 		"Scala",
+		"D",
+		"C#",
+		"Objective-C",
 		"Groovy",
+		"OCaml",
 		"Graphviz",
 		"LaTeX",
+		"R",
 		"Lisp",
-		"Haskell",
-		"Erlang",
-		"C#",
-		"ASP",
-		"OCaml"
+		"Matlab",
+		"DashDoc"
 	],
 	"indent_guide_options":
 	[

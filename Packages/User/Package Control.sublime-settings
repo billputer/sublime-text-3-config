@@ -1,4 +1,7 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"Alignment",
@@ -9,8 +12,11 @@
 		"FileDiffs",
 		"GitGutter",
 		"INI",
+		"Jinja2",
 		"LineEndings",
+		"Mercurial for Sublime",
 		"nginx",
+		"Package Control",
 		"PackageResourceViewer",
 		"Pretty JSON",
 		"Puppet",
@@ -18,6 +24,7 @@
 		"Slate",
 		"Solarized Color Scheme",
 		"SublimeLinter",
-		"TrailingSpaces"
+		"TrailingSpaces",
+		"TWiki"
 	]
 }

@@ -5,5 +5,7 @@ Local
 Pristine Packages
 Packages/User/Package Control.last-run
 Packages/User/Package Control.system-ca-bundle
+Packages/User/Package Control.merged-ca-bundle
+Packages/User/Package Control.user-ca-bundle
 *.cache
 Backup
