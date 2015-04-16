@@ -90,7 +90,8 @@
 		".svn",
 		".git",
 		".hg",
-		"CVS"
+		"CVS",
+		".*"
 	],
 	"font_face": "Inconsolata-g for Powerline",
 	"font_options":
