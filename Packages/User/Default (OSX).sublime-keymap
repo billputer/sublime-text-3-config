@@ -1,3 +1,5 @@
 [
-  { "keys": ["super+ctrl+f"], "command": "noop" }
+  { "keys": ["super+ctrl+f"], "command": "noop" },
+  { "keys": ["super+shift+f"], "command": "show_panel", "args": {"panel": "replace", "reverse": false} },
+  { "keys": ["super+alt+f"], "command": "show_panel", "args": {"panel": "find_in_files"} }
 ]
