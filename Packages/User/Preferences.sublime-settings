@@ -97,7 +97,7 @@
 	"font_options":
 	[
 	],
-	"font_size": 18.0,
+	"font_size": 17.0,
 	"gpu_window_buffer": "auto",
 	"gutter": true,
 	"highlight_line": false,
@@ -105,26 +105,27 @@
 	"hot_exit": true,
 	"ignored_packages":
 	[
-		"D",
-		"Matlab",
-		"R",
-		"Haskell",
-		"Clojure",
-		"Groovy",
-		"Lua",
-		"Objective-C",
 		"Pascal",
-		"Erlang",
-		"OCaml",
 		"LaTeX",
-		"C#",
-		"DashDoc",
-		"Graphviz",
-		"Scala",
-		"TCL",
-		"ASP",
+		"Erlang",
+		"Objective-C",
+		"Clojure",
+		"D",
+		"Lua",
+		"Haskell",
+		"Markdown",
+		"R",
 		"Vintage",
-		"Lisp"
+		"ASP",
+		"C#",
+		"Scala",
+		"Matlab",
+		"Lisp",
+		"DashDoc",
+		"OCaml",
+		"TCL",
+		"Graphviz",
+		"Groovy"
 	],
 	"indent_guide_options":
 	[
