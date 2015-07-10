@@ -6,8 +6,8 @@
     "txt"
   ],
 
-  //"color_scheme": "Packages/MarkdownEditing/MarkdownEditor.tmTheme",
   "color_scheme": "Packages/User/Solarized (dark - custom).tmTheme",
+  //"color_scheme": "Packages/MarkdownEditing/MarkdownEditor.tmTheme",
   // "color_scheme": "Packages/MarkdownEditing/MarkdownEditor-Dark.tmTheme",
   // "color_scheme": "Packages/MarkdownEditing/MarkdownEditor-Yellow.tmTheme",
 
