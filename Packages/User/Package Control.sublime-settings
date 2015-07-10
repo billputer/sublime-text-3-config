@@ -25,6 +25,9 @@
 		"Slate",
 		"Solarized Color Scheme",
 		"SublimeLinter",
+		"SublimeLinter-json",
+		"SublimeLinter-ruby",
+		"SublimeLinter-shellcheck",
 		"TrailingSpaces",
 		"TWiki"
 	]
