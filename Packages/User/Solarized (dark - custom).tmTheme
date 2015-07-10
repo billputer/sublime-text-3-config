@@ -66,7 +66,7 @@ green:     #859900
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#586E75</string>
+        <string>#586e75</string>
       </dict>
     </dict>
     <dict>
@@ -273,7 +273,7 @@ green:     #859900
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#93A1A1</string>
+        <string>#268bd2</string>
       </dict>
     </dict>
     <dict>
@@ -296,6 +296,17 @@ green:     #859900
       <dict>
         <key>foreground</key>
         <string>#DC322F</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>Storage Type</string>
+      <key>scope</key>
+      <string>storage.type</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#268bd2</string>
       </dict>
     </dict>
     <dict>
