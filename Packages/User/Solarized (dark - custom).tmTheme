@@ -1,43 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
+<!--
+Colors
+==================
+base03:    #002b36
+base02:    #073642
+base01:    #586e75
+base00:    #657b83
+base0:     #839496
+base1:     #93a1a1
+base2:     #eee8d5
+base3:     #fdf6e3
+yellow:    #b58900
+orange:    #cb4b16
+red:       #dc322f
+magenta:   #d33682
+violet:    #6c71c4
+blue:      #268bd2
+cyan:      #2aa198
+green:     #859900
+-->
 <dict>
   <key>name</key>
   <string>Solarized (dark)</string>
   <key>settings</key>
   <array>
+
+    <!-- Basics -->
     <dict>
       <key>settings</key>
       <dict>
         <key>background</key>
         <string>#002B36</string>
+
         <key>caret</key>
         <string>#839496</string>
+
         <key>foreground</key>
         <string>#839496</string>
+
         <key>invisibles</key>
         <string>#073642</string>
+
         <key>lineHighlight</key>
         <string>#073642</string>
+
         <key>selection</key>
         <string>#657B83</string>
-        <key>selectionForeground</key>
-        <string>#002B36</string>
+
         <key>selectionBorder</key>
         <string>#586E75</string>
+
         <key>gutter</key>
         <string>#073642</string>
       </dict>
     </dict>
+
+    <!-- Generics -->
     <dict>
       <key>name</key>
       <string>Comment</string>
       <key>scope</key>
-      <string>comment</string>
+      <string>comment, meta.documentation</string>
       <key>settings</key>
       <dict>
-        <key>fontStyle</key>
-        <string></string>
         <key>foreground</key>
         <string>#586E75</string>
       </dict>
