@@ -1916,11 +1916,22 @@ green:     #859900
       <key>Name</key>
       <string>Markdown text inside some block element</string>
       <key>scope</key>
-      <string>markup.quote, meta.paragraph.list</string>
+      <string>markup.quote</string>
       <key>settings</key>
         <dict>
           <key>foreground</key>
           <string>#2aa198</string>
+        </dict>
+    </dict>
+    <dict>
+      <key>Name</key>
+      <string>Markdown list text</string>
+      <key>scope</key>
+      <string>meta.paragraph.list</string>
+      <key>settings</key>
+        <dict>
+          <key>foreground</key>
+          <string>#839496</string>
         </dict>
     </dict>
     <dict>
