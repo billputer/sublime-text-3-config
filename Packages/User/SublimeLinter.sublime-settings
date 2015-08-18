@@ -13,6 +13,11 @@
                 "excludes": [],
                 "strict": true
             },
+            "pyflakes": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
             "ruby": {
                 "@disable": false,
                 "args": [],
@@ -22,7 +27,7 @@
                 "@disable": false,
                 "args": [],
                 "exclude": [
-                    "SC1083",
+                    "SC1083"
                 ],
                 "excludes": []
             }

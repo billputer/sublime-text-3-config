@@ -26,6 +26,7 @@
 		"Solarized Color Scheme",
 		"SublimeLinter",
 		"SublimeLinter-json",
+		"SublimeLinter-pyflakes",
 		"SublimeLinter-ruby",
 		"SublimeLinter-shellcheck",
 		"TrailingSpaces",
