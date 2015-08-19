@@ -30,6 +30,7 @@
 		"SublimeLinter-pyflakes",
 		"SublimeLinter-ruby",
 		"SublimeLinter-shellcheck",
+		"Terraform",
 		"TrailingSpaces",
 		"TWiki"
 	]
