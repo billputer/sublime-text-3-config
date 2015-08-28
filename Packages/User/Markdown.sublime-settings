@@ -2,8 +2,7 @@
   "extensions":
   [
     "md",
-    "mdown",
-    "txt"
+    "mdown"
   ],
 
   "color_scheme": "Packages/User/Solarized (dark - custom).tmTheme",
