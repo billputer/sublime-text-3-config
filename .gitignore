@@ -9,3 +9,6 @@ Packages/User/Package Control.merged-ca-bundle
 Packages/User/Package Control.user-ca-bundle
 *.cache
 Backup
+
+# custom theme
+Packages/Solarized Theme
