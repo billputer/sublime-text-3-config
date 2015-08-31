@@ -27,7 +27,8 @@
                 "@disable": false,
                 "args": [],
                 "exclude": [
-                    "SC1083"
+                    "SC1083",
+                    "SC2046"
                 ],
                 "excludes": []
             }
