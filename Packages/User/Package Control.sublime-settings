@@ -10,7 +10,6 @@
 		"Better CoffeeScript",
 		"DashDoc",
 		"FileDiffs",
-		"GitGutter",
 		"INI",
 		"Jinja2",
 		"LineEndings",
@@ -32,6 +31,7 @@
 		"SublimeLinter-shellcheck",
 		"Terraform",
 		"TrailingSpaces",
-		"TWiki"
+		"TWiki",
+		"VCS Gutter"
 	]
 }
